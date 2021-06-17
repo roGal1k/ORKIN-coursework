@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/pixmap">
+        <file>pixmap/display.png</file>
+        <file>pixmap/strart.png</file>
+        <file>pixmap/left.png</file>
+        <file>pixmap/right1.png</file>
+        <file>pixmap/Рисунок1.png</file>
+        <file>pixmap/Рисунок1_4.png</file>
+        <file>pixmap/Рисунок1_3.png</file>
+        <file>pixmap/Рисунок1_2.png</file>
+        <file>pixmap/Рисунок0.png</file>
+        <file>pixmap/but4.png</file>
+    </qresource>
+</RCC>
